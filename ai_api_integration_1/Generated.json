@@ -1,0 +1,20 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello there! How\u2019s your day going so far? Is there anything I can help you with today? \ud83d\ude0a"
+    },
+    {
+      "role": "user",
+      "content": "okay"
+    },
+    {
+      "role": "assistant",
+      "content": "Okay! How can I help you today? Do you want to:\n\n*   **Chat about something?** (Tell me about your day, a hobby, a thought you have)\n*   **Ask me a question?** (About anything!)\n*   **Play a game?** (Like 20 questions, trivia, etc.)\n*   **Get some information?** (I can try to answer factual questions)\n*   **Just say hello?** \ud83d\ude04\n\nLet me know what you'd like to do!"
+    }
+  ]
+}

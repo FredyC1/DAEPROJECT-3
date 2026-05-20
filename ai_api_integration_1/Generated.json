@@ -2,27 +2,11 @@
   "messages": [
     {
       "role": "user",
-      "content": "hello"
+      "content": "whats the weather in stamford"
     },
     {
       "role": "assistant",
-      "content": "Hello there! How\u2019s your day going so far? Is there anything I can help you with today? \ud83d\ude0a"
-    },
-    {
-      "role": "user",
-      "content": "whats the weather in stamford CT"
-    },
-    {
-      "role": "assistant",
-      "content": "Okay, the weather in Stamford, CT is currently partly cloudy with a temperature of 14\u00b0C (feels like 13\u00b0C). The humidity is 72% and the wind is blowing at 24 km/h. \n\nDo you want to know anything more about the weather there?"
-    },
-    {
-      "role": "user",
-      "content": "what about in Ferhenhti"
-    },
-    {
-      "role": "assistant",
-      "content": "Okay, the temperature in Stamford, CT is currently 55\u00b0F (13\u00b0C).\n\nWould you like a forecast for later today or tomorrow?"
+      "content": "The weather in Stamford is partly cloudy, with a temperature of 14\u00b0C (feels like 13\u00b0C). There\u2019s 72% humidity and the wind is blowing at 24 km/h."
     }
   ]
 }
